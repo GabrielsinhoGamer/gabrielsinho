@@ -7,7 +7,7 @@
 Sou Gabrielsinho, desenvolvedor full stack Pleno com 2 anos de experiência focado na criação de soluções digitais personalizadas e escaláveis.  
 Minha atuação envolve automação de processos, desenvolvimento de interfaces modernas e responsivas, além da integração robusta entre sistemas utilizando tecnologias consolidadas e melhores práticas de mercado.
 
-Atualmente, lidero a [CipherLab™](https://cipherlab.dev), uma empresa especializada no desenvolvimento sob demanda de softwares customizados.
+Atualmente, lidero a GB Network, uma empresa especializada no desenvolvimento sob demanda de softwares customizados.
 
 ---
 
